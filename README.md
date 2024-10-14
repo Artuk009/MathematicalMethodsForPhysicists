@@ -1,7 +1,7 @@
 # Contents
 
 ### Chapter #1:
-* Vectors
+* Vectors, Derivatives and Extrema
 
 ### Chapter #6:
 * Eigenvalue Equations
@@ -10,3 +10,4 @@
 * Arfken, G. B., Harris, F. E., & Weber, H.-J. (2012). Mathematical Methods for Physicists: A Comprehensive Guide. Elsevier. 
 ##### Other References:
 * Farina, D. (n.d.). Professor Dave Explains. YouTube. https://www.youtube.com/@ProfessorDaveExplains 
+* McMullen, C. (2023). Essential Calculus Skills Practice workbook with full solutions. Zishka Publishing. 
