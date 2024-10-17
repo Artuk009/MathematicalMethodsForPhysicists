@@ -14,3 +14,4 @@
 ##### Other References:
 * Farina, D. (n.d.). Professor Dave Explains. YouTube. https://www.youtube.com/@ProfessorDaveExplains 
 * McMullen, C. (2023). Essential Calculus Skills Practice workbook with full solutions. Zishka Publishing. 
+* McMullen, C. (2022). Differential equations: Essential skills practice workbook with answers. Zishka Publishing. 
