@@ -1,7 +1,7 @@
 # Contents
 
 ### Chapter #1:
-* Vectors, Derivatives and Extrema
+* Vectors, Derivatives and Extrema, Partial Derivatives
 
 ### Chapter #6:
 * Eigenvalue Equations
