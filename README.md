@@ -9,6 +9,9 @@
 ### Chapter #3: Vector Analysis
 * Vectors in 3D Space
 
+### Chapter #5:
+* Vectors in Function Spaces
+
 ### Chapter #6: Eigenvalue Problems
 * Eigenvalue Equations
   
