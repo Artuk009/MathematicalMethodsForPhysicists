@@ -3,6 +3,12 @@
 ### Chapter #1:
 * Vectors, Derivatives and Extrema, Partial Derivatives
 
+### Chapter #2:
+* Determinants
+
+### Chapter #3:
+* Vectors in 3D Space
+
 ### Chapter #6:
 * Eigenvalue Equations
   
