@@ -1,18 +1,18 @@
 # Contents
 
-### Chapter #1:
+### Chapter #1: Mathematical Preliminaries
 * Vectors, Derivatives and Extrema, Partial Derivatives
 
-### Chapter #2:
+### Chapter #2: Determinants and Matrices
 * Determinants
 
-### Chapter #3:
+### Chapter #3: Vector Analysis
 * Vectors in 3D Space
 
-### Chapter #6:
+### Chapter #6: Eigenvalue Problems
 * Eigenvalue Equations
   
-### Chapter #7:
+### Chapter #7: ODEs
 * First-Order Differential Equations
 
 ##### Primary Textbook:
