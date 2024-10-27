@@ -7,7 +7,7 @@
 * Determinants
 
 ### Chapter #3: Vector Analysis
-* Vectors in 3D Space
+* Vectors in 3D Space, Vector Operators
 
 ### Chapter #5: Vector Spaces
 * Vectors in Function Spaces
