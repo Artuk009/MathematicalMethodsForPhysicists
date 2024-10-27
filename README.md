@@ -1,7 +1,7 @@
 # Contents
 
 ### Chapter #1: Mathematical Preliminaries
-* Vectors, Derivatives and Extrema, Partial Derivatives
+* Vectors, Derivatives and Extrema, Partial Derivatives, Integration
 
 ### Chapter #2: Determinants and Matrices
 * Determinants
