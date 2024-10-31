@@ -10,7 +10,7 @@
 * Vectors in 3D Space, Vector Operators
 
 ### Chapter #5: Vector Spaces
-* Vectors in Function Spaces
+* Vectors in Function Spaces, Operators
 
 ### Chapter #6: Eigenvalue Problems
 * Eigenvalue Equations
