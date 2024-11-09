@@ -9,6 +9,9 @@
 ### Chapter #3: Vector Analysis
 * Vectors in 3D Space, Vector Operators
 
+### Chapter #4: Tensor Analysis
+* Tensor Properties
+
 ### Chapter #5: Vector Spaces
 * Vectors in Function Spaces, Operators
 
